@@ -1,10 +1,17 @@
 <div align="center">
 
 <h1>ReceiptLens</h1>
+---
 
+## Demo Video
+
+[Watch on YouTube](https://www.youtube.com/watch?v=w2Nn6hD6m3o)
+
+---
 <p><strong>AI-Powered Receipt Scanner & Data Extractor</strong></p>
 
 <p>Turn receipt images into structured data and downloadable Excel spreadsheets — powered by GLM 4.7 Vision AI</p>
+
 
 <p>
   <img src="https://img.shields.io/badge/Next.js-16-black?style=flat-square&logo=next.js" alt="Next.js 16" />
