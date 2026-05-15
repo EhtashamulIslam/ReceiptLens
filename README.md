@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="public/github-banner.png" alt="ReceiptLens Banner" width="100%" />
-
 <h1>ReceiptLens</h1>
 
 <p><strong>AI-Powered Receipt Scanner & Data Extractor</strong></p>
